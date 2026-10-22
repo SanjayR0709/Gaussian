@@ -46,7 +46,6 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ###      print('X%d = %0.2f'%(i,x[i]),end = ' ')/*
 
 ## Output:
-![gaussian elimination]()
 <img width="574" height="782" alt="{366E0E60-E6F0-4175-9C81-A25D8A3BDBE3}" src="https://github.com/user-attachments/assets/82aae914-a221-49e6-aa8a-7b0d248018a8" />
 
 
